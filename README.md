@@ -8,7 +8,15 @@ I am using this repo to:
 - Learn Git & GitHub alongside Python
 - Track my learning progress publicly
 
----
+## Topics Covered
+- Functions
+- Variables
+- Print statements
+- Basic problem-solving
 
-## 📂 Folder Structure
+## Folder Structure
+- `basics/` — contains simple Python programs
 
+## How to Run
+1. Navigate to the folder in terminal
+2. Run: python filename.py
