@@ -3,6 +3,7 @@
 ![Learning](https://img.shields.io/badge/Status-Learning-yellow)
 ![Repo Size](https://img.shields.io/github/repo-size/Himmat20/python_scripts)
 ![Last Commit](https://img.shields.io/github/last-commit/Himmat20/python_scripts)
+![Progress](https://img.shields.io/badge/Progress-Ongoing-orange)
 
 # Python Scripts Practice 🐍
 
