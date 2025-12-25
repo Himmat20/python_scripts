@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Beginner](https://img.shields.io/badge/Level-Beginner-green)
+![Learning](https://img.shields.io/badge/Status-Learning-yellow)
+![Repo Size](https://img.shields.io/github/repo-size/Himmat20/python_scripts)
+![Last Commit](https://img.shields.io/github/last-commit/Himmat20/python_scripts)
+
 # Python Scripts Practice 🐍
 
 This repository contains my **Python practice scripts**, created while learning Python from basics to Object-Oriented Programming (OOP).
