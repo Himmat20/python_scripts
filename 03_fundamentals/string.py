@@ -19,10 +19,10 @@ for ch in word:
 # string[index_start:index_end]
 # slicing
 # making a substring
-# print(word[0:8])
-# print(word[:])
-# print(word[4:])
-# print(word[:4])
+print(word[0:8])
+print(word[:])
+print(word[4:])
+print(word[:4])
 
 # string formatting
 
