@@ -1,5 +1,5 @@
-print("strings")
-# sequence of characters
+# Strings -> denoted by "" or ''
+# sequence of characters are known as strings
 
 word="Himanshu" 
 word_1="bhardwaj"
